@@ -36,7 +36,9 @@
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=phatvphat&show_icons=true&locale=en&theme=github_dark" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phatvphat&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="top languages" /> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phatvphat&theme=horizon" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=phatvphat&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=phatvphat&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phatvphat&layout=compact&theme=radical" alt="github stats" />
 </div>
 
 ---
